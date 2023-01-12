@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+    color: rgba(241, 134, 10);
+    font-size: 30pt;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+button {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30pt;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+p {
+    position: relative;
+}
+
+footer {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20pt;
+    position: absolute;
+    bottom: 0;
+    background-color: rgba(241, 134, 10);
+    color: #FFF;
+    width: 99%;   
+    text-align: center;
+}
+
+a {
+    color: black;
+    text-decoration-line: none;
+}
+
+a:visited {
+    color: black;
+    text-decoration-line: none;
+}
