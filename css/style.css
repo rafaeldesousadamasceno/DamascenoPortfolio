@@ -18,7 +18,7 @@ h1 {
     margin-bottom: 20px;
     margin-top: 20px;
     color: #fff;
-    font-size: 4rem;
+    font-size: 3rem;
 }
 
 header p {
@@ -28,7 +28,7 @@ header p {
     margin: auto;
     text-align: center;
     padding: 10px;
-    font-size: 1.5rem;
+    font-size: 1.3rem;
 }
 
 hr {
@@ -58,7 +58,7 @@ button {
     cursor: pointer;
     outline: none;
     transition: all .4s ease-out;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
 }
 
 button:hover {
